@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: julius
+
+discord:
+  bot:
+    token: ${DISCORD_BOT_TOKEN}
+
+itad:
+    api-key: ${ITAD_API_KEY}
